@@ -1,0 +1,4 @@
+spring:
+  application:
+    name: cloud-test
+    version: 1
