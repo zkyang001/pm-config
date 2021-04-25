@@ -1,5 +1,2 @@
-spring:
-  test: 111
-  application:
-    name: cloud-dev-version_2
-    version: 1
+config:
+  info: sssss-version1
