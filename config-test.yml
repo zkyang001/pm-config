@@ -1,4 +1,4 @@
 spring:
   application:
     name: cloud-test
-    version: 2
+    version: 1
