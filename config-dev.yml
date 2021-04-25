@@ -1,4 +1,4 @@
 spring:
   application:
-    name: cloud-dev-version_1
+    name: cloud-dev-version_2
     version: 1
